@@ -1,0 +1,8 @@
+# Compilation target #
+*.o
+Game_of_Life
+
+# Eclipse files #
+.settings
+.classpath
+.project
