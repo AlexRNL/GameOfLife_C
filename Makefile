@@ -20,4 +20,4 @@ rebuild: clean Game_Of_Life
 	
 
 archive: clean
-	tar cvzf ../Game_of_Life.tar.gz ../Jeu\ de\ la\ vie
+	tar cvzf ../Game_of_Life.tar.gz ../GameOfLife_C
